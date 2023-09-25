@@ -1,8 +1,8 @@
 # Grob-Planung
 
-✍️ Fügen Sie hier Ihren Namen ein
+Gruppe 5: Biasco, Kistler & Spaqi
 
-✍️ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
+Zeitrahmen: 25.09.2023 - 27.11.2023
 
 ## Leit-Satz
 
