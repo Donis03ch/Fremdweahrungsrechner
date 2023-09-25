@@ -4,6 +4,11 @@ Gruppe 5: Biasco, Kistler & Spaqi
 
 Zeitrahmen: 25.09.2023 - 27.11.2023
 
+Programmierer: Brandon, Vincent, Mattia
+Projektleiter: Brandon
+Tester: Vincent, Mattia
+
+
 ## Leit-Satz
 
 ✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
