@@ -5,7 +5,9 @@ Gruppe 5: Biasco, Kistler & Spaqi
 Zeitrahmen: 25.09.2023 - 27.11.2023
 
 Programmierer: Brandon, Vincent, Mattia
+
 Projektleiter: Brandon
+
 Tester: Vincent, Mattia
 
 
