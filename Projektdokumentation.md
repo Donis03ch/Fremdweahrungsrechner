@@ -27,12 +27,4 @@ In diesem Zeitrahmen möchten wir, Brandon, Vincent und Mattia, einen Fremdwähr
 - [ ] Das erste Programm Design überlegen
       
 
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
