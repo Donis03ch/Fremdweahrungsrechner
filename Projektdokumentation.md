@@ -5,7 +5,6 @@ Gruppe 5: Biasco, Kistler & Spaqi
 Zeitrahmen: 25.09.2023 - 27.11.2023
 
 
-
 Programmierer: Brandon, Vincent, Mattia
 
 Projektleiter: Brandon
@@ -15,7 +14,7 @@ Tester: Vincent, Mattia
 
 ## Leit-Satz
 
-✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
+In diesem Zeitrahmen möchten wir, Brandon, Vincent und Mattia, einen Fremdwährungsrechner programmieren, bei dem man 1-5 Währungen eingeben kann und er diese in eine Währung umrechnen kann, zum Beispiel Euro in Schweizer Franken. Das Programm soll die aktuellen Kurse aus dem Internet herunterladen können und diese alle Tage wieder aktualisieren. 
 
 ## Arbeitspakete für dd.mm.yyyy
 
