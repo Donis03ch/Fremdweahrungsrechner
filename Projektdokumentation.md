@@ -1,4 +1,4 @@
-# Grob-Planung
+# Planung
 
 Gruppe 5: Biasco, Kistler & Spaqi
 
