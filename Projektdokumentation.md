@@ -19,6 +19,9 @@ In diesem Zeitrahmen möchten wir, Brandon, Vincent und Mattia, einen Fremdwähr
 
 ## Anforderungsanalyse
 
+|  |  |
+
+
 
 ## Arbeitspakete für 30.10.2023 
 
