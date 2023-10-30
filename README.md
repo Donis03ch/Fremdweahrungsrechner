@@ -39,6 +39,7 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 | 2.1 | Programm Start    | -    | aktelle Kurse ---    |
 | 3.1 | Programm anfang    | 15 €    | 14 CHF    |
 | 3.2 | Programm anfang    | 15 $    | 10 CHF    |
+| 4.1 | Währung rechnen    | -    | -    |
 | ... |     |     |     |
 
 <span style="background: azure">Jede Anforderung hat mindestens einen dazugehörigen Testfall. Der erste Testfall, der zur Anforderung mit der Nummer 1 gehört, hat die Nummer 1.1, der zweite Testfall, der zur Anforderung 1 gehört, die 1.2; der erste Testfall zur Anforderung 2 die 2.1 und so weiter. </span>
