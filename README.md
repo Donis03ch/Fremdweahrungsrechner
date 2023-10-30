@@ -47,7 +47,7 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 <img src="C:\Users\donis\Downloads\279059517-774170f0-3289-46dc-a02a-63c2241f4ec7.png" width="400">
-"
+
 
 
 ## 2 Planen
