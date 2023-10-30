@@ -25,7 +25,7 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 | 1   | Muss    | Funktionalität    | 1-5 Währungen eingeben können und entscheiden welche Währung verwaltet wird.    |
 | 2   | Muss    | Funktionalität    | Das Programm soll über eine API Daten aus dem Internet beziehen können.    |
 | 3   | Muss    | Funktionalität    | Er soll alle auswählbaren Währungen in z.B Fr. umrechnen können.    |
-| 4   | Muss    | Funktinalität    |     |
+| 4   | Kann    | Funktinalität    | In einer Erweiterung, könnte das Programm ein Finanz Assistänt besitzen.    |
 | 5   | Muss    | Randbedingung    |     |
 | 6   | Muss    | Randbedingung    |     |
 
