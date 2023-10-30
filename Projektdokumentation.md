@@ -11,7 +11,6 @@ Projektleiter: Brandon
 
 Tester: Vincent, Mattia
 
-<img width="192" alt="image" src="https://github.com/Donis03ch/Fremdweahrungsrechner/assets/142605710/7ea18130-ba85-4855-8a7d-56ac33e28dbb">
 
 
 ## Leit-Satz
