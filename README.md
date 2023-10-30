@@ -16,7 +16,7 @@ Gruppe 5: Spaqi, Kistler, Biasco
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei dem man 1-5 Währungen eingeben kann. Er soll diese in eine andere Währung umrechnen, zum Beispiel Euro in Schweizer Franken. 
 
 ### 1.2 Anforderungen
 
