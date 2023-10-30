@@ -4,7 +4,7 @@
 
 <span style="background: azure">Stellen, an welchen Sie etwas ausfüllen müssen, beginnen mit ✍️. Wenn Sie die nötige Information eingetragen haben, können Sie ✍️ entfernen.</span>
 
-✍️ Ihr Nachname; bei Gruppenarbeiten Ihr Gruppenname und Ihre Nachnamen
+✍️ Ihr Nachname; bei Gruppenarbeiten Ihr Gruppenname und Ihre Nachnamen Gruppe 5: Spaqi, Kistler, Biasco
 
 | Datum | Version | Zusammenfassung |
 | --- | --- | --- |
