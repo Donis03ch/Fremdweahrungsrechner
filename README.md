@@ -38,7 +38,7 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 | 1.1 | Programm Start    | xx CHF    | xx CHF    |
 | 2.1 | Programm Start    | -    | aktelle Kurse ---    |
 | 3.1 | Programm anfang    | 15 €    | 14 CHF    |
-| 3.2 | Programm anfang    | 15 $    | 10 CHF    |
+| 3.2 | Programm anfang    | 15 $    | 13 CHF    |
 | 4.1 | Währung rechnen    | -    | -    |
 | ... |     |     |     |
 
