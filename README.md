@@ -26,7 +26,7 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 | 2   | Muss    | Funktionalität    | Das Programm soll über eine API Daten aus dem Internet beziehen können.    |
 | 3   | Muss    | Funktionalität    | Er soll alle auswählbaren Währungen in z.B Fr. umrechnen können.    |
 | 4   | Kann    | Funktinalität    | In einer Erweiterung, könnte das Programm ein Finanz Assistänt besitzen.    |
-| 5   | Muss    | Randbedingung    |     |
+| 5   | Muss    | Randbedingung    | Das Programm soll bis am 27.11 fertig sein.    |
 | 6   | Muss    | Randbedingung    |     |
 
 <span style="background: azure">Jede Anforderung hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand).</span>
