@@ -27,7 +27,7 @@ In diesem Zeitrahmen möchten wir, Brandon, Vincent und Mattia, einen Fremdwähr
 |4|Funktion| In einer Erweiterung, könnte das Programm ein Finanz Assistänt besitzen|
 |5|Randbedigung| Das Programm soll bis am 27.11 fertig sein|
 |6|Randbedingung| Das Programm soll mit c# geschriben sein|
-
+|7|Qualität| Eingabefehler sollen aufgefangen werden|
 
 
 ## Arbeitspakete für 30.10.2023 
