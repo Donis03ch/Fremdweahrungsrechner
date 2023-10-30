@@ -55,7 +55,11 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 
 | AP-№ | Frist | Zuständig | Beschreibung |
 | --- | --- | --- | --- |
-| 1.A |     |     |     |
+| 1.A |  45min   | Brandon    | GUI designen & erstellen    |
+| 2.A |  60min   | Alle    | API Schnittstelle herunterladen |
+| 2.B |  45min   | Vincent    | Währungs-Array erstellen    |
+| 3.A | 60min    | Alle    | Die Umrechnungen programmieren    |
+| 4.A | 45min    | Brandon    | Fehler abfangen    |
 | ... |     |     |     |
 
 ✍️ Total: bspw. 26 Arbeitspakete
