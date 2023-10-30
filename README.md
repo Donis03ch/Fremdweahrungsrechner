@@ -46,7 +46,7 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
-<img src="![image](https://github.com/Donis03ch/Fremdweahrungsrechner/assets/111046453/0ce7bd29-e6d7-4fea-a223-433f6c338474)" width="440">
+<img src="(https://github.com/Donis03ch/Fremdweahrungsrechner/assets/111046453/0ce7bd29-e6d7-4fea-a223-433f6c338474)" width="440">
 "
 
 
