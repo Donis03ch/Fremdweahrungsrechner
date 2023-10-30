@@ -22,8 +22,8 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 
 | №   | Verbindlichkeit | Typ | Beschreibung |
 | --- | --- | --- | --- |
-| 1   | Muss    | Funktionalität    | 1-5 Währungen eingeben können und entscheiden welche Währung verwaltet wird    |
-| 2   | Muss    | Funktionalität    |     |
+| 1   | Muss    | Funktionalität    | 1-5 Währungen eingeben können und entscheiden welche Währung verwaltet wird.    |
+| 2   | Muss    | Funktionalität    | Das Programm soll über eine API Daten aus dem Internet beziehen können.    |
 | 3   | Muss    | Funktionalität    |     |
 | ... |     |     |     |
 
