@@ -22,7 +22,7 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 
 | №   | Verbindlichkeit | Typ | Beschreibung |
 | --- | --- | --- | --- |
-| 1   |     |     |     |
+| 1   | Muss    | Funktionalität    |     |
 | ... |     |     |     |
 
 <span style="background: azure">Jede Anforderung hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand).</span>
