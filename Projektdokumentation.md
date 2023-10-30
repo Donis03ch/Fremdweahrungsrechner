@@ -25,6 +25,7 @@ In diesem Zeitrahmen möchten wir, Brandon, Vincent und Mattia, einen Fremdwähr
 |2|Funktion| Das Programm soll über eine API Daten aus dem Internet beziehen können|
 |3|Funktion| Er soll alle auswählbaren Währungen in z.B Fr. umrechnen können|
 |4|Funktion| In einer Erweiterung, könnte das Programm ein Finanz Assistänt besitzen|
+|5|Randbedigung| Das Programm soll bis am 27.11 fertig sein|
 
 
 
