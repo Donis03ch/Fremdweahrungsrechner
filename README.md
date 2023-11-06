@@ -65,8 +65,10 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 
 ## Feinplanung
 -
--[ ] Die GUI gestalten 
-- [] 
+- [ ] Wie kann man eine Schnittstelle in ein C# program einfügen (Brandon, Mattia und Vincent)
+- [ ] 
+- [ ]  Wie erstellt und designed man eine GUI (Mattia und Vincent)
+
 
 
 
