@@ -62,6 +62,16 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 | 4.A | 45min    | Brandon    | Fehler abfangen    |
 | ... |     |     |     |
 
+
+## Feinplanung
+
+-[ ] Die GUI gestalten 
+-
+
+
+
+
+
 ✍️ Total: bspw. 26 Arbeitspakete
 
 <span style="background: azure">Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. *Frist* bedeutet, wann das AP abgeschlossen sein muss; *Zuständig* bezeichnet die (haupt-)verantwortliche Person.</span>
