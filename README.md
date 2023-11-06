@@ -64,9 +64,9 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 
 
 ## Feinplanung
-
--[ ] Die GUI gestalten 
 -
+-[ ] Die GUI gestalten 
+- [] 
 
 
 
