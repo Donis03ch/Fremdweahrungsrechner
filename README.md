@@ -66,8 +66,8 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 ## Feinplanung
 -
 - [ ] Wie kann man eine Schnittstelle in ein C# program einfügen (Brandon, Mattia und Vincent)
-- [ ] 
-- [ ]  Wie erstellt und designed man eine GUI (Mattia und Vincent)
+- [ ] Wie erstellt man die Währungs Array mit der Schnittstelle (Brandon)
+- [ ] Wie erstellt und designed man eine GUI (Mattia und Vincent)
 
 
 
