@@ -70,6 +70,12 @@ In diesem Zeitrahmen möchten wir einen Fremdwährungsrechner programmieren, bei
 - [ ] Wie erstellt und designed man eine GUI (Mattia und Vincent)
 
 
+- [ ] Versuchen die Schnittstelle in die C# applikation zu implementieren (alle)
+- [ ] Versuchen den Rechner in den code einzufügen (alle)
+- [ ] Die GUI verbessern (alle)
+      
+
+
 
 
 
